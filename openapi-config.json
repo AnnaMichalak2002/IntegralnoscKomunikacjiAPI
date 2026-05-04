@@ -1,0 +1,11 @@
+{
+  "apiPackage": "edu.zut.pbalab4.api",
+  "modelPackage": "edu.zut.pbalab4.model",
+  "invokerPackage": "edu.zut.pbalab4.invoker",
+  "dateLibrary": "java8",
+  "interfaceOnly": true,
+  "useSpringBoot3": true,
+  "openApiNullable": false,
+  "performBeanValidation": true,
+  "useTags": true
+}
