@@ -1,13 +1,4 @@
 # Testy API
-
-## Uwaga
-Komendy najlepiej kopiować bezpośrednio z pliku `README.md` lub z Worda.  
-Nie zaleca się kopiowania ich z PDF, ponieważ PDF może zmieniać:
-- cudzysłowy,
-- myślniki,
-- backticky,
-- układ linii.
-
 ---
 
 # Zadanie 2
